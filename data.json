@@ -1,0 +1,12 @@
+{"company":"Acme Innovations","established":1998,
+"active":true,"departments":[{"id":1,"name":"Engineering",
+"manager":{"id":101,"name":"Alice Wong","contact":{"email":"alice.wong@acme.com","phone":"+1-555-1234"}}
+,"teams":[{"name":"Platform","members":[{"id":1001,"name":"Bob Smith","role":"Backend Engineer"},
+{"id":1002,"name":"Carol Jones","role":"DevOps Engineer"}]},{"name":"UI/UX","members":[{"id":1003,"name":"David Lee","role":"Frontend Engineer"}
+,{"id":1004,"name":"Ella Martinez","role":"Designer"}]}]},{"id":2,"name":"Sales","manager":
+{"id":102,"name":"Frank Zhao","contact":{"email":"frank.zhao@acme.com","phone":"+1-555-5678"}},"regions":
+[{"region":"North America","quota":1200000,"reps":[{"id":2001,"name":"Grace Kim","sales":350000},
+{"id":2002,"name":"Hector Ruiz","sales":420000}]},{"region":"Europe","quota":800000,"reps":
+[{"id":2003,"name":"Isabel Novak","sales":300000},{"id":2004,"name":"Jack Müller","sales":250000}]}]}]
+,"settings":{"theme":"dark","notifications":{"email":true,"sms":false,"push":{"enabled":true,"level":"critical"}},
+"features":["dashboard","analytics","reporting"]},"metadata":{"last_updated":"2025-05-01T14:32:00Z","version":"3.2.1","tags":["enterprise","beta","v2"]}}
