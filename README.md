@@ -33,7 +33,7 @@ q/esc to quit
 
 Grab the latest Windows executable from our Releases page.
 # Download and run
-Invoke-WebRequest -Uri "https://github.com/itsadijmbt/JsonParser.io/releases/latest/download/json-tree-parser-windows.exe" -OutFile "json-tree-parser.exe"
+Invoke-WebRequest -Uri "https://github.com/itsadijmbt/JsonParser.io/releases/tag/JSP1.1"
 .\\json-tree-parser.exe -file config.json
 
 Currently, pre-built binaries are provided only for Windows. Linux and macOS users should build from source.
